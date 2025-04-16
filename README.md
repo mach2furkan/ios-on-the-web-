@@ -113,8 +113,3 @@ pnpm dev --education-mode
 
 *Note: The --education-mode flag disables analytics and commercial-feature*
 
-## ❓ Educational Support
-
----
-
-This project exists solely to advance web development education. Please respect the creator's intention by using it responsibly and never commercially.
